@@ -1,6 +1,6 @@
 ## Tekton Pipelines Topical Ownership
 
-Topical owners are responsible for triaging bugs, reviewing  TEPs and moving along any work in their topic areas
+Topical owners are responsible for triaging bugs , reviewing  TEPs and moving along any work in their topic areas
 
 | Topic                       | Primary Owner                                                                    | Secondary Owner                                                           | Collaborators                                                          |
 | --------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
